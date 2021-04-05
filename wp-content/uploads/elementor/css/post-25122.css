@@ -1,0 +1,28 @@
+.elementor-25122 .elementor-element.elementor-element-5b7ecfa3 > .elementor-container {max-width: 756px;}
+.elementor-25122 .elementor-element.elementor-element-5b7ecfa3:not(.elementor-motion-effects-element-type-background), .elementor-25122 .elementor-element.elementor-element-5b7ecfa3 > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-color: #fff;background-image: url("http://httpmvpetepam.github.io/wp-content/uploads/2021/03/unnamed.png");background-position: center left;background-repeat: no-repeat;background-size: contain;}
+.elementor-25122 .elementor-element.elementor-element-5b7ecfa3 > .elementor-background-overlay {background-color: transparent;background-image: linear-gradient(70deg,rgba(128,18,147,.85) 40%,rgba(0,59,177,.98) 100%);opacity: 1;transition: background .3s,border-radius .3s,opacity .3s;}
+.elementor-25122 .elementor-element.elementor-element-5b7ecfa3 {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;margin-top: 0%;margin-bottom: 0%;padding: 0px 0px 0px 0px;}
+.elementor-25122 .elementor-element.elementor-element-373e4494.elementor-position-right .elementor-image-box-img {margin-left: 15px;}
+.elementor-25122 .elementor-element.elementor-element-373e4494.elementor-position-left .elementor-image-box-img {margin-right: 15px;}
+.elementor-25122 .elementor-element.elementor-element-373e4494.elementor-position-top .elementor-image-box-img {margin-bottom: 15px;}
+.elementor-25122 .elementor-element.elementor-element-373e4494 .elementor-image-box-wrapper .elementor-image-box-img {width: 30%;}
+.elementor-25122 .elementor-element.elementor-element-373e4494 .elementor-image-box-img img {transition-duration: .3s;}
+.elementor-25122 .elementor-element.elementor-element-373e4494 .elementor-image-box-wrapper {text-align: center;}
+.elementor-25122 .elementor-element.elementor-element-373e4494 .elementor-image-box-title {margin-bottom: 20px;}
+.elementor-25122 .elementor-element.elementor-element-373e4494 .elementor-image-box-content .elementor-image-box-title {color: #fff;}
+.elementor-25122 .elementor-element.elementor-element-373e4494 .elementor-image-box-content .elementor-image-box-description {color: #fff;}
+.elementor-25122 .elementor-element.elementor-element-373e4494 > .elementor-widget-container {margin: 0px 0px 10px 0px;padding: 0px 0px 0px 0px;}
+.elementor-25122 .elementor-element.elementor-element-3a6c1252 .elementor-button {fill: #0984e3;color: #0984e3;background-color: #fff;}
+.elementor-25122 .elementor-element.elementor-element-3a6c1252 .elementor-button:hover, .elementor-25122 .elementor-element.elementor-element-3a6c1252 .elementor-button:focus {color: #0984e3;background-color: rgba(255,255,255,.84);}
+.elementor-25122 .elementor-element.elementor-element-3a6c1252 .elementor-button:hover svg, .elementor-25122 .elementor-element.elementor-element-3a6c1252 .elementor-button:focus svg {fill: #0984e3;}
+.elementor-25122 .elementor-element.elementor-element-3a6c1252 > .elementor-widget-container {margin: 20px 0px 0px 0px;}
+@media (max-width:1024px) {.elementor-25122 .elementor-element.elementor-element-5b7ecfa3 {padding: 150px 50px 200px 50px;}
+	.elementor-25122 .elementor-element.elementor-element-373e4494 .elementor-image-box-wrapper {text-align: center;}
+	.elementor-25122 .elementor-element.elementor-element-373e4494 > .elementor-widget-container {padding: 0px 0px 0px 0px;}}
+@media (min-width:1025px) {.elementor-25122 .elementor-element.elementor-element-5b7ecfa3:not(.elementor-motion-effects-element-type-background), .elementor-25122 .elementor-element.elementor-element-5b7ecfa3 > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-attachment: scroll;}}
+@media (max-width:767px) {.elementor-25122 .elementor-element.elementor-element-5b7ecfa3 {margin-top: 0px;margin-bottom: 0px;padding: 150px 20px 150px 20px;}
+	.elementor-25122 .elementor-element.elementor-element-56701138 > .elementor-element-populated {padding: 0px 0px 0px 0px;}
+	.elementor-25122 .elementor-element.elementor-element-373e4494 .elementor-image-box-img {margin-bottom: 15px;}
+	.elementor-25122 .elementor-element.elementor-element-373e4494 .elementor-image-box-wrapper {text-align: center;}
+	.elementor-25122 .elementor-element.elementor-element-373e4494 > .elementor-widget-container {padding: 0px 0px 0px 0px;}
+	.elementor-25122 .elementor-element.elementor-element-3a6c1252 > .elementor-widget-container {margin: 0px 0px 0px 0px;}}
